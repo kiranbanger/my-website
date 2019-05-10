@@ -8,3 +8,5 @@ leson 71
 
 lesson 74: updates before rebase
 asdfadf
+
+lesson 77: conflicts when merging
