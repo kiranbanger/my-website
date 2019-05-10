@@ -8,3 +8,6 @@ leson 71
 
 lesson 74: updates before rebase
 asdfadf
+
+lesson 77: local changes that conflict with 
+changes made on GH
